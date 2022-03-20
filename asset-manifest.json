@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Characters-Project/static/css/main.db632b5f.css",
+    "main.js": "/Breaking-Bad-Characters-Project/static/js/main.de2a9d8a.js",
+    "static/media/bg.jpg": "/Breaking-Bad-Characters-Project/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Breaking-Bad-Characters-Project/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Breaking-Bad-Characters-Project/index.html",
+    "main.db632b5f.css.map": "/Breaking-Bad-Characters-Project/static/css/main.db632b5f.css.map",
+    "main.de2a9d8a.js.map": "/Breaking-Bad-Characters-Project/static/js/main.de2a9d8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db632b5f.css",
+    "static/js/main.de2a9d8a.js"
+  ]
+}
