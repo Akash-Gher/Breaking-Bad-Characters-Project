@@ -47,6 +47,16 @@ header{
   border: 1px solid #52967a;
 }
 
+.loader{
+  margin: 1rem auto;
+  height: 5rem;
+  width: 5rem;
+  border-radius: 50%;
+  border: 3px solid #52967a;
+  border-left: 3px solid transparent;
+  animation: loader 1s infinite linear;
+  /* animation-direction: linear; */
+}
 
 .character-list-container{
   width: 90%;
