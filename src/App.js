@@ -10,12 +10,15 @@ function App() {
   const { currentCharacters, showIndividual } = useContext(DataContext);
   return (
     <>
-      <Header />
+     <Header />
       <Search />
-      <CharacterList />
-    
+      {loading ? (
+        <Loader />
+      ) : (
+        <CharacterList />
+      )}
       {currentCharacters.length < 10 ? null : !showIndividual ? <Pagination /> : null} 
-   
+      {/* current lenth:10 */}
     </>
   );
 }
